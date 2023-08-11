@@ -1,2 +1,2 @@
-# Trabalhos de Informática Aplicada
-Repositório destinado aos trabalhos da disciplina de Informática Aplicada do curso de Logística da FATEC
+# Informática Aplicada
+Repository for the work of the discipline of Applied Informatics of the Logistics course at FATEC
